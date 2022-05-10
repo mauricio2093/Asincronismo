@@ -6,7 +6,8 @@
   "scripts": {
     "callback": "node src/CallBack/callBack.js",
     "challenge":"node src/CallBack/challenge.js",
-    "promes":"node src/promise/index.js"
+    "promes":"node src/promise/index.js",
+    "API": "node src/promise/challenge.js"
   },
   "author": "Mauricio Cadena Barona",
   "license": "MIT",
